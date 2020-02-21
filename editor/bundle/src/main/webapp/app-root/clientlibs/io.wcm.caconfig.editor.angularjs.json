@@ -3,6 +3,7 @@
   "categories": [
     "io.wcm.caconfig.editor.angularjs"
   ],
+  "allowProxy": true,
   "jsProcessor": ["default:none", "min:none"],
   "longCacheKey": "${project.version}-${buildNumber}"
 }
